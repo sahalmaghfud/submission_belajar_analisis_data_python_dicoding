@@ -1,5 +1,11 @@
 # Air Quality Dashboard
 
+# Setup Environment - Anaconda
+```
+conda create --name air_quality_dashboard python=3.9
+conda activate air_quality_dashboard
+pip install -r requirements.txt
+```
 ## Setup Environment - Shell/Terminal
 
 ```
