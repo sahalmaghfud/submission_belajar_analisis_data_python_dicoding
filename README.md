@@ -3,8 +3,8 @@
 ## Setup Environment - Shell/Terminal
 
 ```
-mkdir proyek_analisis_data
-cd proyek_analisis_data
+mkdir air_quality_analysis
+cd air_quality_analysis
 pipenv install
 pipenv shell
 pip install -r requirements.txt
